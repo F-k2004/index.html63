@@ -14,7 +14,7 @@ canvas{display:block}
  color:#d9f3ff;font-size:13px;min-width:500px;
 }
 .good{color:#9ff0ff}
-.mid{color:#ffd29f}
+.id{color:#ffd29f}
 .bad{color:#ff9f9f}
 </style>
 </head>
